@@ -237,9 +237,8 @@ This project successfully analyzed customer retention and churn behavior using t
 
 
 
-
 ---
 
-**Project Outcome
-**
+**Project Outcome**
+
 The project delivered a comprehensive customer retention and churn analysis solution using Excel and Power BI. The dashboard effectively highlights customer behavior patterns, churn trends, customer lifetime characteristics, and business opportunities for improving retention. The insights generated from this analysis can help organizations reduce customer attrition, improve customer satisfaction, and support data-driven strategic planning.
